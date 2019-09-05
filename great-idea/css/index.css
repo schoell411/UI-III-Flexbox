@@ -94,9 +94,16 @@ h1 {
 	font-size: 15px;
 	padding: 5px 35px;
 	margin: 20px 0 10px 0;
+	width: 200px;
+	text-align: center;
+}
+.top_text p a {
+	text-decoration: none;
+	color: black;
 }
 .top-img {
-	width: 50%;
+	width: 45%;
+	height: 30em;
 }
 h3 {
 	font-size: 15px;
